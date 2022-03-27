@@ -1,0 +1,8 @@
+{
+  "name": "cypressplayground",
+  "description": "This is just a playground to try some techniques",
+  "author": "PB",
+  "devDependencies": {
+    "cypress": "^4.5.0"
+  }
+}
